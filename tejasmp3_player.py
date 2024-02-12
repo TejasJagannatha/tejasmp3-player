@@ -3,7 +3,7 @@ import youtube_dl
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import filedialog
-import os, pygame, time
+import os, time
 from PIL import Image, ImageTk
 from pytube import YouTube
 #from io import BytesIO
