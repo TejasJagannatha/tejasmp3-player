@@ -13,8 +13,7 @@ from tkinter import messagebox
 
 
 #===========================================
-inp= input(r"Enter the path where you have cloned the project: ", ) 
- 
+  
 cnt=0
 #-- - Uploads your local music files (YTB links)-->   USE ONLY ONCE AGAIN WILL MAKE MULTIPLE FILE DOWNLOAD
 def progress(stream, chunk, bytes_remaining):
@@ -38,11 +37,7 @@ def upload_music():
         song_names= f.readlines()
 
     convert_songnames(song_names)
-
-# Function to download audio from YouTube
-def change_path():
-    PATH= os.chdir(inp)
-
+ 
 #BASIC CONFIG OF BG COLOR WINDOW SIZE AND LOGO
 def config_basic(root):     
     # Create main window     
