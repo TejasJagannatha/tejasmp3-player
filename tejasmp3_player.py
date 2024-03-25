@@ -46,7 +46,7 @@ def config_basic(root):
     root.configure(bg="lightblue")  
     print(os.getcwd())
     # Load the image
-    logo_image = ImageTk.PhotoImage(file=r'C:\Users\tejas\OneDrive\Pictures\Desktop\TEJAS-PROFESSIONAL WORKS\MUSICPLAYER-Tejas\logo_1.ico')
+    logo_image = ImageTk.PhotoImage(file=r'your file goes here')
     root.iconphoto(False, logo_image)
 
 
@@ -84,7 +84,6 @@ def play_music(file):
 
 
 def hook():
-
     messagebox.showinfo("Alert", "Contact Developer @Tejas")
     
 #HOW TO PAUSE???
