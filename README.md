@@ -1,2 +1,12 @@
-# mp3player
-my mp3player built in tkinter
+# Youtube Video to Audio Converter
+
+Install all the necessary libraries by running the command 
+
+-> pip install -r requirements.txt
+
+Once done copy the URL of songs from youtube and paste it in the "songs.txt"
+file one below the other. (you can paste it as many links one below the other).
+
+Run the Script tejasmp3_player.py and the bunch of URl's will be converted into Audio formats.
+
+# BOOM Enjoy your Songs!!!
