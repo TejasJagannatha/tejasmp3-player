@@ -9,4 +9,8 @@ file one below the other. (you can paste it as many links one below the other).
 
 Run the Script tejasmp3_player.py and the bunch of URl's will be converted into Audio formats.
 
+If you find this entertaining and useful please do support me with any contribution
+https://github.com/sponsors/TejasJagannatha
+
 # BOOM Enjoy your Songs!!!
+Thanks!
